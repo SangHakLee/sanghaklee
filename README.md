@@ -4,6 +4,12 @@
 - ~~Node.js server programmer & AWS~~
 - IaaS cloud system programmer [@gabia](https://github.com/gabia)
 
+## Show me by graph
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghaklee&count_bg=%233D5BC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghaklee)
+![sanghaklee's github stats](https://github-readme-stats.vercel.app/api?username=sanghaklee&show_icons=true)
 
 ## Languages
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
@@ -20,12 +26,12 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 
-<br />
-<br />
+[..more](stackshare)
 
+<br />
+<br />
 
 ## Connect with me
-
 [<img align="left" alt="mailto:code.ryan.lee@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [<img align="left" alt="sanghaklee.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,6 +40,8 @@
 
 [<img align="left" alt="stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg" />][stackshare]
 
+<br />
+<br />
 
 
 
