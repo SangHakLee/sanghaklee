@@ -46,11 +46,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[JavaScript] 원시 타입과 참조 타입 질문 1](https://sanghaklee.tistory.com/72)
 - [2020 LIFEPLUS JTBC 마라톤 개인정보수정 방법](https://sanghaklee.tistory.com/71)
 - [RESTful API 설계 가이드 질문 1](https://sanghaklee.tistory.com/70)
 - [설치하다; Java 설치; Python 설치; Node.js 설치; C 설치?](https://sanghaklee.tistory.com/69)
 - [[Java] JaCoCo with PowerMock code coverage problem](https://sanghaklee.tistory.com/68)
-- [HTML JavaScript 로드 http:// vs //](https://sanghaklee.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://sanghaklee.tistory.com)
 
