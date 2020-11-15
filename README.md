@@ -5,6 +5,8 @@
 - Design REST API
 - Express.js, Codeigniter, Flask 
 
+<br>
+
 ## 📝 Careers
 - IaaS cloud engineer [@gabia](https://github.com/gabia) `2016-07 ~ `
     1. frontend programmer
@@ -22,12 +24,15 @@
     - AWS
       - EC2, RDS, S3, ELB, ElasticCache, CloudFront, AMI, SNS, IAM, CloudWatch
 
-## 📈 Show me with a graph
+<br>
 
+## 📈 Show me with a graph
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghaklee&count_bg=%233D5BC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghaklee)
 ![sanghaklee's github stats](https://github-readme-stats.vercel.app/api?username=sanghaklee&show_icons=true)
+
+<br>
 
 ## 🖥️ Languages
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
@@ -44,7 +49,9 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 
-[..more](stackshare)
+[..more][stackshare]
+
+<br>
 
 ## 📞 Connect with me
 [<img align="left" alt="mailto:code.ryan.lee@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -55,6 +62,7 @@
 
 [<img align="left" alt="stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg" />][stackshare]
 
+<br>
 
 ## 🖊️ Blog posts
 <!-- BLOG-POST-LIST:START -->
