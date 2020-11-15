@@ -1,5 +1,7 @@
 # Show you what i got 💪
 - IaaS cloud engineer
+    - infra virtualization
+        - server, storage, network, ...
     - linux network
     - libvirt
 - Design REST API
@@ -18,7 +20,7 @@
         - Gitlab CI/CD, Docker
     2. backend programmer
         - Java REST API server
-        - libvirt server virtualization
+        - libvirt, server virtualization
 - server programmer & AWS manager @selphone `2015-03 ~ 2015-12`
     - Node.js(Express) REST API server
     - AWS
@@ -62,6 +64,7 @@
 
 [<img align="left" alt="stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg" />][stackshare]
 
+<br>
 <br>
 
 ## 🖊️ Blog posts
