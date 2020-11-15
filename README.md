@@ -1,17 +1,35 @@
 # Show you what i got 💪
+- IaaS cloud engineer
+    - linux network
+    - libvirt
+- Design REST API
+- Express.js, Codeigniter, Flask 
 
-## Work
-- ~~Node.js server programmer & AWS~~
-- IaaS cloud system programmer [@gabia](https://github.com/gabia)
+## 📝 Careers
+- IaaS cloud engineer [@gabia](https://github.com/gabia) `2016-07 ~ `
+    1. frontend programmer
+        - PHP(Codeigniter) web
+        - Node.js(Express) REST API server
+        - ZooKeeper znode event watching system
+        - Socket.IO realtime web notification system
+        - Python Flask REST API gateway server
+        - Gitlab CI/CD, Docker
+    2. backend programmer
+        - Java REST API server
+        - libvirt server virtualization
+- server programmer & AWS manager @selphone `2015-03 ~ 2015-12`
+    - Node.js(Express) REST API server
+    - AWS
+      - EC2, RDS, S3, ELB, ElasticCache, CloudFront, AMI, SNS, IAM, CloudWatch
 
-## Show me by graph
+## 📈 Show me with a graph
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghaklee&count_bg=%233D5BC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghaklee)
 ![sanghaklee's github stats](https://github-readme-stats.vercel.app/api?username=sanghaklee&show_icons=true)
 
-## Languages
+## 🖥️ Languages
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
@@ -28,10 +46,7 @@
 
 [..more](stackshare)
 
-<br />
-<br />
-
-## Connect with me
+## 📞 Connect with me
 [<img align="left" alt="mailto:code.ryan.lee@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [<img align="left" alt="sanghaklee.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,15 +55,12 @@
 
 [<img align="left" alt="stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg" />][stackshare]
 
-<br />
-<br />
 
-
-## Blog posts
+## 🖊️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://sanghaklee.tistory.com)
 
+➡️ [more blog posts...](https://sanghaklee.tistory.com)
 
 [JavaScript]: https://github.com/sanghaklee
 [Node.js]: https://github.com/sanghaklee
