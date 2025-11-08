@@ -1,13 +1,22 @@
+<div align="center">
+  
 # Show you what i got 💪
-- IaaS cloud engineer
-    - infra virtualization
-        - server, storage, network, ...
-    - linux network
-    - libvirt
-- Design REST API
-- Express.js, Codeigniter, Flask 
+### IaaS Cloud Engineer & Full-Stack Developer
 
-<br>
+[![StackShare](https://img.shields.io/badge/StackShare-Profile-0690FA?style=flat-square&logo=stackshare)](https://stackshare.io/SangHakLee)
+![Profile Views](https://komarev.com/ghpvc/?username=sanghaklee&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SangHakLee-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sanghak-lee-79772111a/)
+[![Blog](https://img.shields.io/badge/Blog-sanghaklee.tistory.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://sanghaklee.tistory.com)
+[![Email](https://img.shields.io/badge/Email-code.ryan.lee@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:code.ryan.lee@gmail.com)
+
+</div>
+
+## 🚀 About Me
+
+> **"IaaS Platform Developer | Architecting scalable cloud infrastructure services"**
+> - https://www.gabiacloud.com
+> - https://gov.gabiacloud.com
+
 
 ## 📝 Careers
 - IaaS cloud engineer [@gabia](https://github.com/gabia) `2016-07 ~ `
@@ -26,48 +35,72 @@
     - AWS
       - EC2, RDS, S3, ELB, ElasticCache, CloudFront, AMI, SNS, IAM, CloudWatch
 
-<br>
+## 🛠️ Tech Stack
 
-## 📈 Show me with a graph
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghaklee&count_bg=%233D5BC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghaklee)
-![sanghaklee's github stats](https://github-readme-stats.vercel.app/api?username=sanghaklee&show_icons=true)
+### **Infrastructure & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
-<br>
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🖥️ Languages
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+➡️ [**More Tech Stacks...**](https://stackshare.io/SangHakLee)
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][PHP]
+## 📊 GitHub Stats
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
+<div align="center">
+  
+![SangHak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghaklee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghaklee&layout=compact&theme=tokyonight&langs_count=8)
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanghaklee&theme=tokyonight)
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+</div>
 
-[..more][stackshare]
+## 🏆 Projects
 
-<br>
+<div align="center">
+  <a href="https://github.com/sanghaklee/iptables-visualization">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=iptables-visualization&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sanghaklee/iptables-graph">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=iptables-graph&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sanghaklee/ncc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=ncc&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sanghaklee/swagger-express-jsdoc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=swagger-express-jsdoc&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sanghaklee/is">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=is&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sanghaklee/subnet-overlap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanghaklee&repo=subnet-overlap&theme=tokyonight" />
+  </a>
+</div>
 
-## 📞 Connect with me
-[<img align="left" alt="mailto:code.ryan.lee@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br/>
 
-[<img align="left" alt="sanghaklee.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+➡️ [**More Projects...**](https://github.com/SangHakLee?tab=repositories)
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg" />][stackshare]
 
-<br>
-<br>
+## 📝 Latest Blog Posts
 
-## 🖊️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Python] the virtual environment was not created successfully because ensurepip is not available.](https://sanghaklee.tistory.com/75)
 - [[Java / JUnit4] log4j:WARN No appenders could be found for logger](https://sanghaklee.tistory.com/74)
@@ -76,17 +109,20 @@
 - [2020 LIFEPLUS JTBC 마라톤 개인정보수정 방법](https://sanghaklee.tistory.com/71)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://sanghaklee.tistory.com)
+➡️ [**More Blog Posts...**](https://sanghaklee.tistory.com)
 
-[JavaScript]: https://github.com/sanghaklee
-[Node.js]: https://github.com/sanghaklee
-[PHP]: https://github.com/sanghaklee
-[Java]: https://github.com/sanghaklee
-[Python]: https://github.com/sanghaklee
-[MySQL]: https://github.com/sanghaklee
-[Git]: https://github.com/sanghaklee
+## 💖 Support My Work
 
-[gmail]: mailto:code.ryan.lee@gmail.com
-[website]: https://sanghaklee.tistory.com
-[linkedin]: https://linkedin.com/in/sanghak-lee-79772111a/
-[stackshare]: https://stackshare.io/SangHakLee
+<div align="center">
+  
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/SangHakLee)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sanghaklee)
+
+</div>
+
+
+<div align="center">
+  
+**Thank you for visiting my profile!** 🙏
+
+</div>
