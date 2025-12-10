@@ -68,7 +68,7 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanghaklee&layout=compact&theme=tokyonight&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanghaklee&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=sanghaklee&theme=tokyonight)
 
 </div>
 
