@@ -104,11 +104,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 CPPG 46회 차 합격 후기, 공부법 with NotebookLM](https://sanghaklee.tistory.com/76)
 - [[Python] the virtual environment was not created successfully because ensurepip is not available.](https://sanghaklee.tistory.com/75)
 - [[Java / JUnit4] log4j:WARN No appenders could be found for logger](https://sanghaklee.tistory.com/74)
 - [Ubuntu 18.04&lpar;Bionic&rpar; Python 3.8 설치](https://sanghaklee.tistory.com/73)
 - [[JavaScript] 원시 타입과 참조 타입 질문 1](https://sanghaklee.tistory.com/72)
-- [2020 LIFEPLUS JTBC 마라톤 개인정보수정 방법](https://sanghaklee.tistory.com/71)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**More Blog Posts...**](https://sanghaklee.tistory.com)
